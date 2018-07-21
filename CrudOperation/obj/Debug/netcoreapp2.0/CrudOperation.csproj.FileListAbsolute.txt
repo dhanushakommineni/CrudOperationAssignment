@@ -1,0 +1,11 @@
+C:\Users\Dhanusha.Kommineni\source\repos\CrudOperation\CrudOperation\bin\Debug\netcoreapp2.0\CrudOperation.deps.json
+C:\Users\Dhanusha.Kommineni\source\repos\CrudOperation\CrudOperation\bin\Debug\netcoreapp2.0\CrudOperation.runtimeconfig.json
+C:\Users\Dhanusha.Kommineni\source\repos\CrudOperation\CrudOperation\bin\Debug\netcoreapp2.0\CrudOperation.runtimeconfig.dev.json
+C:\Users\Dhanusha.Kommineni\source\repos\CrudOperation\CrudOperation\bin\Debug\netcoreapp2.0\CrudOperation.dll
+C:\Users\Dhanusha.Kommineni\source\repos\CrudOperation\CrudOperation\obj\Debug\netcoreapp2.0\CrudOperation.csprojAssemblyReference.cache
+C:\Users\Dhanusha.Kommineni\source\repos\CrudOperation\CrudOperation\obj\Debug\netcoreapp2.0\CrudOperation.csproj.CoreCompileInputs.cache
+C:\Users\Dhanusha.Kommineni\source\repos\CrudOperation\CrudOperation\obj\Debug\netcoreapp2.0\CrudOperation.AssemblyInfoInputs.cache
+C:\Users\Dhanusha.Kommineni\source\repos\CrudOperation\CrudOperation\obj\Debug\netcoreapp2.0\CrudOperation.AssemblyInfo.cs
+C:\Users\Dhanusha.Kommineni\source\repos\CrudOperation\CrudOperation\bin\Debug\netcoreapp2.0\CrudOperation.pdb
+C:\Users\Dhanusha.Kommineni\source\repos\CrudOperation\CrudOperation\obj\Debug\netcoreapp2.0\CrudOperation.dll
+C:\Users\Dhanusha.Kommineni\source\repos\CrudOperation\CrudOperation\obj\Debug\netcoreapp2.0\CrudOperation.pdb
